@@ -6,7 +6,7 @@
         {
             InitializeComponent();
 
-            MainPage = new Views.vHome();
+            MainPage = new Views.Login();
         }
     }
 }

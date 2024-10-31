@@ -7,7 +7,7 @@
         Spacing="25"
         Padding="25">
         <Label 
-            Text="SISTEMA DE CALIFICACIONES!"
+            Text="SISTEMA DE CALIFICACIONES"
             TextColor="Blue"
             FontSize="30"
             VerticalOptions="Center" 
@@ -160,7 +160,7 @@
 
         </Grid>
 
-        <Button x:Name="btnCalNot" Text="Calcular Notas" Clicked="btnCalNot_Clicked"/>
+        <Button x:Name="btnCalNot" Text="Calcular Notas" Clicked="btnCalNot_Clicked" BackgroundColor="Gray"/>
         <Button x:Name="btnBorInf" Text="Nueva Consulta" Clicked="btnBorInf_Clicked" BackgroundColor="Green"/>
 
     </VerticalStackLayout>
